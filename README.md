@@ -107,7 +107,8 @@ Relationships used in the project:
 
 # 📸 Dashboard Preview
 
-<img width="925" height="499" alt="Power BI Project" src="https://github.com/user-attachments/assets/ca3f3ff1-da72-45a6-8cd8-fa04914ac9df" />
+<img width="929" height="504" alt="dashboard" src="https://github.com/user-attachments/assets/c8483b0e-5280-4184-bec7-d2b8ecb95554" />
+
 
 ---
 
